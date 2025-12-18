@@ -4,7 +4,7 @@ import { SiteConfig, ConfigContextType } from '../types';
 
 const DEFAULT_CONFIG: SiteConfig = {
   hero: {
-    bg: "https://images.squarespace-cdn.com/content/v1/5c9b1392815512293441a1a7/1563254444535-W9O4E7W7P7W7W7W7W7W7/Ship+Inn+Stanley+Exterior.jpg",
+    bg: "https://shipinnstanley.com.au/wp-content/uploads/2023/11/Ship-Inn-Stanley-main-page-cropped.jpg",
     title: "Ship",
     subtitle: "Inn Stanley.",
     tagline: "A collection of heritage-listed sanctuaries nestled at the base of the iconic Circular Head Nut."
