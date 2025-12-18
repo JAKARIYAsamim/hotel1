@@ -17,11 +17,11 @@ const DEFAULT_CONFIG: SiteConfig = {
   },
   rooms: [
     'https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?q=80&w=2070&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1616594831818-844000302b0c?q=80&w=2070&auto=format&fit=crop',
+    'https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2019/10/09/20726/ship-inn-stanley.jpg?fit=1920%2C1600',
     'https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=2070&auto=format&fit=crop',
     'https://images.unsplash.com/photo-1554995207-c18c203602cb?q=80&w=2070&auto=format&fit=crop',
     'https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2070&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1600566752355-3979ff6942bc?q=80&w=2070&auto=format&fit=crop'
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxrERsdXB0dfbLOCqXY89-Pgca9Cwqfu0gg&s'
   ],
   gallery: [
     'https://www.thehotelguru.com/_images/2f/2a/2f2a6fac598a0a5a7dfe560cfdb10861/s1654x900.jpg',
