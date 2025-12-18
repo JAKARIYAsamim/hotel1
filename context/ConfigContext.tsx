@@ -24,14 +24,14 @@ const DEFAULT_CONFIG: SiteConfig = {
     'https://images.unsplash.com/photo-1600566752355-3979ff6942bc?q=80&w=2070&auto=format&fit=crop'
   ],
   gallery: [
-    'https://images.unsplash.com/photo-1518780664697-55e3ad937233?q=80&w=2000&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1506450654448-65f04e0ba6ad?q=80&w=2069&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?q=80&w=2070&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1540518614846-7eded433c457?q=80&w=2070&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1590515152220-4c407c742c0c?q=80&w=2000&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1551882547-ff43c63faf76?q=80&w=2070&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=2070&auto=format&fit=crop'
+    'https://www.thehotelguru.com/_images/2f/2a/2f2a6fac598a0a5a7dfe560cfdb10861/s1654x900.jpg',
+    'https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2019/10/09/20726/ship-inn-stanley.jpg?fit=1920%2C1600',
+    'https://cf.bstatic.com/xdata/images/hotel/max1024x768/286490881.jpg?k=a3a2c31f3ab8cb6e4cf57fafe1300699c71db0e46662a8822d1ccb0781e295e6&o=',
+    'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/7a/59/c4/ship-inn-stanley.jpg?w=700&h=-1&s=1',
+    'https://a0.muscache.com/im/pictures/miso/Hosting-38085970/original/849c52b1-2450-41cc-a10d-dc8f90b3db4d.jpeg?im_w=720',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxrERsdXB0dfbLOCqXY89-Pgca9Cwqfu0gg&s',
+    'https://stanleyandtarkine.com.au/wp-content/uploads/2023/06/ship-inn-stanley-accommodation-2.jpg',
+    'https://www.hotelscombined.co.uk/himg/37/70/08/expedia_group-722997-234553690-788764.jpg'
   ],
   features: {
     main: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=2070&auto=format&fit=crop',
@@ -39,10 +39,10 @@ const DEFAULT_CONFIG: SiteConfig = {
     culinary: 'https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1974&auto=format&fit=crop'
   },
   loading: [
-    'https://images.unsplash.com/photo-1518780664697-55e3ad937233?q=80&w=500&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1590515152220-4c407c742c0c?q=80&w=500&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1506450654448-65f04e0ba6ad?q=80&w=500&auto=format&fit=crop',
-    'https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?q=80&w=500&auto=format&fit=crop'
+    'https://www.thehotelguru.com/_images/2f/2a/2f2a6fac598a0a5a7dfe560cfdb10861/s1654x900.jpg',
+    'https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2019/10/09/20726/ship-inn-stanley.jpg?fit=1920%2C1600',
+    'https://cf.bstatic.com/xdata/images/hotel/max1024x768/286490881.jpg?k=a3a2c31f3ab8cb6e4cf57fafe1300699c71db0e46662a8822d1ccb0781e295e6&o=',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxrERsdXB0dfbLOCqXY89-Pgca9Cwqfu0gg&s'
   ],
   videoUrl: "https://www.youtube.com/embed/b0PwAGnD8Cc"
 };
